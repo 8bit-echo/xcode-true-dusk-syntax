@@ -1,7 +1,7 @@
 {
   "name": "xcode-true-dusk-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Closest thing to a 1:1 port of Xcode's Dusk theme.",
   "keywords": [
     "syntax",
