@@ -3,11 +3,11 @@
 The closest I could get to a 1:1 port of Xcode's Dusk theme. This is my first theme, so any feedback or corrections would be greatly appreciated.
 
 
-Install:
+<h2>  Install: </>h2
 install with apm or through Settings > Install > Themes.
 
 ```
 $ apm install xcode-true-dusk-syntax
 ```
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+<h2>Preview:</h2>
+![preview](https://github.com/dick-ey/xcode-true-dusk-syntax/blob/master/preview.png?raw=true)
