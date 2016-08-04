@@ -1,0 +1,18 @@
+{
+  "name": "xcode-true-dusk-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Closest thing to a 1:1 port of Xcode's Dusk theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "Xcode",
+    "Dusk",
+    "dark"
+  ],
+  "repository": "https://github.com/dick-ey/xcode-true-dusk-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
